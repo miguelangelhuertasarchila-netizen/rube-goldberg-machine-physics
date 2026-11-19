@@ -13,7 +13,7 @@ Multi-stage mechanical chain-reaction system designed, built, and tested for the
 ![Final Prototype](./Prototipo_Final.png)
 
 ### Educational Poster (*Afiche Didáctico*)
-![Educational Poster](./Afiche_Didactico.pdf)
+![Educational Poster](./Afiche_Didactico.jpg)
 
 ### Technical Report
 - **[View Full Technical Document (PDF)](./Informe_Maquina_Goldberg.pdf)** — Complete theoretical framework, stage-by-stage breakdown, and experimental calculations.
